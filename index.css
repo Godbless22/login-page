@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    margin-top: 0%;
+    margin-left: 20%;
+    margin-right: 40%;
+    
+}
+
+.one {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 0%
+}
+.me {
+    width: 90%;
+    background-color: wheat;
+    border-style:solid;
+    text-align: center;
+    margin-left: 5%;
+}
+.you {
+    width: 90%;
+    background-color: lightGray;
+    border-style:solid;
+    opacity: 0.9;
+    text-align: center;
+    margin-left: 5%;
+}
